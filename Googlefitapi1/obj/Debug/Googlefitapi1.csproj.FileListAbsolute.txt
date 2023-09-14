@@ -1,0 +1,6 @@
+C:\Users\anvay\OneDrive - MIT Art, Design & Technology University, Pune\Desktop\Googlefitapi1\Googlefitapi1\obj\Debug\Googlefitapi1.csproj.AssemblyReference.cache
+C:\Users\anvay\OneDrive - MIT Art, Design & Technology University, Pune\Desktop\Googlefitapi1\Googlefitapi1\obj\Debug\Googlefitapi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\anvay\OneDrive - MIT Art, Design & Technology University, Pune\Desktop\Googlefitapi1\Googlefitapi1\obj\Debug\Googlefitapi1.Form1.resources
+C:\Users\anvay\OneDrive - MIT Art, Design & Technology University, Pune\Desktop\Googlefitapi1\Googlefitapi1\obj\Debug\Googlefitapi1.Properties.Resources.resources
+C:\Users\anvay\OneDrive - MIT Art, Design & Technology University, Pune\Desktop\Googlefitapi1\Googlefitapi1\obj\Debug\Googlefitapi1.csproj.GenerateResource.cache
+C:\Users\anvay\OneDrive - MIT Art, Design & Technology University, Pune\Desktop\Googlefitapi1\Googlefitapi1\obj\Debug\Googlefitapi1.csproj.CoreCompileInputs.cache

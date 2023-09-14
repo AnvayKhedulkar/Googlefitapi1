@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Googlefitapi1", "Googlefitapi1\Googlefitapi1.csproj", "{F113C540-FFE0-4EC2-A0C4-41F020AB9DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F113C540-FFE0-4EC2-A0C4-41F020AB9DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F113C540-FFE0-4EC2-A0C4-41F020AB9DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F113C540-FFE0-4EC2-A0C4-41F020AB9DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F113C540-FFE0-4EC2-A0C4-41F020AB9DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5226CC00-6BCA-4D5E-A8D4-90095209CAB8}
+	EndGlobalSection
+EndGlobal
